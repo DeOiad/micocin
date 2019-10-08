@@ -1,0 +1,23 @@
+@media screen and (max-width: 640px) {
+    header {
+        display: none;
+    }
+
+    .danger {
+        &__numbered-items {
+            flex-direction: column;
+        }
+    }
+
+    .effect__textblock-wrapper {
+        flex-direction: column;
+    }
+
+    .mik-effect__items {
+        flex-direction: column;
+    }
+
+    footer {
+        display: none;
+    }
+}
