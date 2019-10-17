@@ -16,9 +16,9 @@ header {
 
 .block-header {
     width: 100%;
-    background: url(/img/Слой_9.png) no-repeat 0 666px, 
-                url(/img/Слой_13.png) no-repeat, 
-                url(/img/Слой_12.png) no-repeat;
+    background: url('/img/Слой_9.png') no-repeat 0 666px, 
+                url('/img/Слой_13.png') no-repeat, 
+                url('/img/Слой_12.png') no-repeat;
 
     &__wrapper {
         max-width: 1170px;
@@ -207,8 +207,8 @@ header {
     left: 901px;
     bottom: 526px;
     background: 
-                url(/img/white_phone.png) no-repeat 11px 9px,
-                url(/img/green_phone.png) no-repeat -26px -27px;
+                url('/img/white_phone.png') no-repeat 11px 9px,
+                url('/img/green_phone.png') no-repeat -26px -27px;
 
     &__upper {
         display: flex;
@@ -549,7 +549,7 @@ header {
 
     &-block {
         width: 100%;
-        background: url(/img/bg_white_bottom.png) no-repeat;
+        background: url('/img/bg_white_bottom.png') no-repeat;
 
         &__wrapper {
             max-width: 1170px;
@@ -685,7 +685,7 @@ hr {
     &-block {
         width: 100%;
         height: 925px;
-        background: url(/img/Слой_9.png) no-repeat;
+        background: url('/img/Слой_9.png') no-repeat;
 
         &-wrapper {
             max-width: 1170px;
@@ -725,7 +725,7 @@ hr {
     &__item {
         width: 400px;
         height: 307px;
-        background: url(/img/mik_effect_border.png) no-repeat;
+        background: url('/img/mik_effect_border.png') no-repeat;
         text-align: center;
 
         &-title {
@@ -763,7 +763,7 @@ hr {
         &--green {
             width: 400px;
             height: 307px;
-            background: url(/img/bg_effect_green.png) no-repeat;
+            background: url('/img/bg_effect_green.png') no-repeat;
             text-align: center;
         }
     }
@@ -772,7 +772,7 @@ hr {
 
         width: 870px;
         height: 100px;
-        background: url(/img/border_effect_bottom.png) no-repeat;
+        background: url('/img/border_effect_bottom.png') no-repeat;
         margin: 0 auto;
 
         &-title {
@@ -793,9 +793,9 @@ hr {
 
 .footer-block {
     width: 100%;
-    background: url(/img/footer_bg_waves.png) no-repeat 0 -10px,
-        url(/img/bg_bottom_main.png) no-repeat,
-        url(/img/Слой_9.png) no-repeat;
+    background: url('/img/footer_bg_waves.png') no-repeat 0 -10px,
+        url('/img/bg_bottom_main.png') no-repeat,
+        url('/img/Слой_9.png') no-repeat;
 
     &-wrapper {
         max-width: 1170px;
